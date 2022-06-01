@@ -79,6 +79,7 @@ export VISUAL='lvim'
 
 # Source additional local files if they exist.
 z4h source ~/.env.zsh
+z4h source ~/.config/zsh/fzf-key-bindings.zsh
 
 # Use additional Git repositories pulled in with `z4h install`.
 #
