@@ -1,2 +1,2 @@
 # zsh-config
-using Zsh4Humans
+Using [Zsh4Humans](https://github.com/romkatv/zsh4humans)
