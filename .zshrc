@@ -128,8 +128,7 @@ alias cfslock='cd $HOME/suckless/slock; vim config.def.h'
 alias cfslstatus='cd $HOME/suckless/slstatus; vim config.def.h'
 alias cfscripts='cd $HOME/suckless/scripts; vim config.def.h'
 ## zsh
-alias cfzshrc='vim $HOME/.bashrc'
-alias cfaliases='vim $HOME/.bash_aliases'
+alias cfzshrc='vim $HOME/.config/zsh/.zshrc'
 # Aliases end
 
 # Add flags to existing aliases.
